@@ -1,10 +1,3 @@
-;预配置作者
-;毒奶博主
-;limbopro.com
-;04.06.2022 更新   
-;https://t.me/limboprossr 关注更新
-;https://t.me/Adblock4limbo 群组反馈与讨论交流
-
 [general]
 
 #解析器作者 @XIAO_KOP 
@@ -36,6 +29,7 @@ static=🐟 Final, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, DIREC
 [server_remote]
 # https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/unlesssub.txt, tag=无用节点（❌请不要动它）, enabled=false
 # 无用订阅（请勿删除）
+https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/Eternity, tag=GIT, update-interval=172800, opt-parser=true, enabled=true
 
 [filter_remote]
 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/airports.list, tag=机场专线, force-policy=✈️ 机场专线, enabled=true
